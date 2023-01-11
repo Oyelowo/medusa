@@ -24,7 +24,7 @@ TransactionBaseService.constructor
 
 #### Defined in
 
-[packages/medusa/src/services/product-variant-inventory.ts:30](https://github.com/medusajs/medusa/blob/6dafb5154/packages/medusa/src/services/product-variant-inventory.ts#L30)
+[packages/medusa/src/services/product-variant-inventory.ts:30](https://github.com/Oyelowo/medusa/blob/dd87e6253/packages/medusa/src/services/product-variant-inventory.ts#L30)
 
 ## Properties
 
@@ -38,7 +38,7 @@ TransactionBaseService.\_\_configModule\_\_
 
 #### Defined in
 
-[packages/medusa/src/interfaces/transaction-base-service.ts:10](https://github.com/medusajs/medusa/blob/6dafb5154/packages/medusa/src/interfaces/transaction-base-service.ts#L10)
+[packages/medusa/src/interfaces/transaction-base-service.ts:10](https://github.com/Oyelowo/medusa/blob/dd87e6253/packages/medusa/src/interfaces/transaction-base-service.ts#L10)
 
 ___
 
@@ -52,7 +52,7 @@ TransactionBaseService.\_\_container\_\_
 
 #### Defined in
 
-[packages/medusa/src/interfaces/transaction-base-service.ts:9](https://github.com/medusajs/medusa/blob/6dafb5154/packages/medusa/src/interfaces/transaction-base-service.ts#L9)
+[packages/medusa/src/interfaces/transaction-base-service.ts:9](https://github.com/Oyelowo/medusa/blob/dd87e6253/packages/medusa/src/interfaces/transaction-base-service.ts#L9)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[packages/medusa/src/services/product-variant-inventory.ts:28](https://github.com/medusajs/medusa/blob/6dafb5154/packages/medusa/src/services/product-variant-inventory.ts#L28)
+[packages/medusa/src/services/product-variant-inventory.ts:28](https://github.com/Oyelowo/medusa/blob/dd87e6253/packages/medusa/src/services/product-variant-inventory.ts#L28)
 
 ___
 
@@ -76,7 +76,7 @@ TransactionBaseService.manager\_
 
 #### Defined in
 
-[packages/medusa/src/services/product-variant-inventory.ts:22](https://github.com/medusajs/medusa/blob/6dafb5154/packages/medusa/src/services/product-variant-inventory.ts#L22)
+[packages/medusa/src/services/product-variant-inventory.ts:22](https://github.com/Oyelowo/medusa/blob/dd87e6253/packages/medusa/src/services/product-variant-inventory.ts#L22)
 
 ___
 
@@ -86,7 +86,7 @@ ___
 
 #### Defined in
 
-[packages/medusa/src/services/product-variant-inventory.ts:26](https://github.com/medusajs/medusa/blob/6dafb5154/packages/medusa/src/services/product-variant-inventory.ts#L26)
+[packages/medusa/src/services/product-variant-inventory.ts:26](https://github.com/Oyelowo/medusa/blob/dd87e6253/packages/medusa/src/services/product-variant-inventory.ts#L26)
 
 ___
 
@@ -96,7 +96,7 @@ ___
 
 #### Defined in
 
-[packages/medusa/src/services/product-variant-inventory.ts:25](https://github.com/medusajs/medusa/blob/6dafb5154/packages/medusa/src/services/product-variant-inventory.ts#L25)
+[packages/medusa/src/services/product-variant-inventory.ts:25](https://github.com/Oyelowo/medusa/blob/dd87e6253/packages/medusa/src/services/product-variant-inventory.ts#L25)
 
 ___
 
@@ -106,7 +106,7 @@ ___
 
 #### Defined in
 
-[packages/medusa/src/services/product-variant-inventory.ts:27](https://github.com/medusajs/medusa/blob/6dafb5154/packages/medusa/src/services/product-variant-inventory.ts#L27)
+[packages/medusa/src/services/product-variant-inventory.ts:27](https://github.com/Oyelowo/medusa/blob/dd87e6253/packages/medusa/src/services/product-variant-inventory.ts#L27)
 
 ___
 
@@ -120,7 +120,7 @@ TransactionBaseService.transactionManager\_
 
 #### Defined in
 
-[packages/medusa/src/services/product-variant-inventory.ts:23](https://github.com/medusajs/medusa/blob/6dafb5154/packages/medusa/src/services/product-variant-inventory.ts#L23)
+[packages/medusa/src/services/product-variant-inventory.ts:23](https://github.com/Oyelowo/medusa/blob/dd87e6253/packages/medusa/src/services/product-variant-inventory.ts#L23)
 
 ## Methods
 
@@ -144,7 +144,7 @@ Adjusts inventory of a variant on a location
 
 #### Defined in
 
-[packages/medusa/src/services/product-variant-inventory.ts:534](https://github.com/medusajs/medusa/blob/6dafb5154/packages/medusa/src/services/product-variant-inventory.ts#L534)
+[packages/medusa/src/services/product-variant-inventory.ts:534](https://github.com/Oyelowo/medusa/blob/dd87e6253/packages/medusa/src/services/product-variant-inventory.ts#L534)
 
 ___
 
@@ -169,7 +169,7 @@ Adjusts the quantity of reservations for a line item by a given amount.
 
 #### Defined in
 
-[packages/medusa/src/services/product-variant-inventory.ts:394](https://github.com/medusajs/medusa/blob/6dafb5154/packages/medusa/src/services/product-variant-inventory.ts#L394)
+[packages/medusa/src/services/product-variant-inventory.ts:394](https://github.com/Oyelowo/medusa/blob/dd87e6253/packages/medusa/src/services/product-variant-inventory.ts#L394)
 
 ___
 
@@ -208,7 +208,7 @@ TransactionBaseService.atomicPhase\_
 
 #### Defined in
 
-[packages/medusa/src/interfaces/transaction-base-service.ts:48](https://github.com/medusajs/medusa/blob/6dafb5154/packages/medusa/src/interfaces/transaction-base-service.ts#L48)
+[packages/medusa/src/interfaces/transaction-base-service.ts:48](https://github.com/Oyelowo/medusa/blob/dd87e6253/packages/medusa/src/interfaces/transaction-base-service.ts#L48)
 
 ___
 
@@ -234,7 +234,7 @@ the variant inventory item
 
 #### Defined in
 
-[packages/medusa/src/services/product-variant-inventory.ts:238](https://github.com/medusajs/medusa/blob/6dafb5154/packages/medusa/src/services/product-variant-inventory.ts#L238)
+[packages/medusa/src/services/product-variant-inventory.ts:238](https://github.com/Oyelowo/medusa/blob/dd87e6253/packages/medusa/src/services/product-variant-inventory.ts#L238)
 
 ___
 
@@ -261,7 +261,7 @@ boolean indicating if inventory is available
 
 #### Defined in
 
-[packages/medusa/src/services/product-variant-inventory.ts:54](https://github.com/medusajs/medusa/blob/6dafb5154/packages/medusa/src/services/product-variant-inventory.ts#L54)
+[packages/medusa/src/services/product-variant-inventory.ts:54](https://github.com/Oyelowo/medusa/blob/dd87e6253/packages/medusa/src/services/product-variant-inventory.ts#L54)
 
 ___
 
@@ -285,7 +285,7 @@ delete a reservation of variant quantity
 
 #### Defined in
 
-[packages/medusa/src/services/product-variant-inventory.ts:502](https://github.com/medusajs/medusa/blob/6dafb5154/packages/medusa/src/services/product-variant-inventory.ts#L502)
+[packages/medusa/src/services/product-variant-inventory.ts:502](https://github.com/Oyelowo/medusa/blob/dd87e6253/packages/medusa/src/services/product-variant-inventory.ts#L502)
 
 ___
 
@@ -308,7 +308,7 @@ Remove a variant from an inventory item
 
 #### Defined in
 
-[packages/medusa/src/services/product-variant-inventory.ts:298](https://github.com/medusajs/medusa/blob/6dafb5154/packages/medusa/src/services/product-variant-inventory.ts#L298)
+[packages/medusa/src/services/product-variant-inventory.ts:298](https://github.com/Oyelowo/medusa/blob/dd87e6253/packages/medusa/src/services/product-variant-inventory.ts#L298)
 
 ___
 
@@ -332,7 +332,7 @@ list of inventory items
 
 #### Defined in
 
-[packages/medusa/src/services/product-variant-inventory.ts:156](https://github.com/medusajs/medusa/blob/6dafb5154/packages/medusa/src/services/product-variant-inventory.ts#L156)
+[packages/medusa/src/services/product-variant-inventory.ts:156](https://github.com/Oyelowo/medusa/blob/dd87e6253/packages/medusa/src/services/product-variant-inventory.ts#L156)
 
 ___
 
@@ -356,7 +356,7 @@ variant inventory items for the variant id
 
 #### Defined in
 
-[packages/medusa/src/services/product-variant-inventory.ts:175](https://github.com/medusajs/medusa/blob/6dafb5154/packages/medusa/src/services/product-variant-inventory.ts#L175)
+[packages/medusa/src/services/product-variant-inventory.ts:175](https://github.com/Oyelowo/medusa/blob/dd87e6253/packages/medusa/src/services/product-variant-inventory.ts#L175)
 
 ___
 
@@ -380,7 +380,7 @@ lidt of inventory items for the variant
 
 #### Defined in
 
-[packages/medusa/src/services/product-variant-inventory.ts:216](https://github.com/medusajs/medusa/blob/6dafb5154/packages/medusa/src/services/product-variant-inventory.ts#L216)
+[packages/medusa/src/services/product-variant-inventory.ts:216](https://github.com/Oyelowo/medusa/blob/dd87e6253/packages/medusa/src/services/product-variant-inventory.ts#L216)
 
 ___
 
@@ -404,7 +404,7 @@ a list of product variants that are associated with the item id
 
 #### Defined in
 
-[packages/medusa/src/services/product-variant-inventory.ts:198](https://github.com/medusajs/medusa/blob/6dafb5154/packages/medusa/src/services/product-variant-inventory.ts#L198)
+[packages/medusa/src/services/product-variant-inventory.ts:198](https://github.com/Oyelowo/medusa/blob/dd87e6253/packages/medusa/src/services/product-variant-inventory.ts#L198)
 
 ___
 
@@ -428,7 +428,7 @@ Reserves a quantity of a variant
 
 #### Defined in
 
-[packages/medusa/src/services/product-variant-inventory.ts:326](https://github.com/medusajs/medusa/blob/6dafb5154/packages/medusa/src/services/product-variant-inventory.ts#L326)
+[packages/medusa/src/services/product-variant-inventory.ts:326](https://github.com/Oyelowo/medusa/blob/dd87e6253/packages/medusa/src/services/product-variant-inventory.ts#L326)
 
 ___
 
@@ -453,7 +453,7 @@ A promise that resolves with the product variant inventory item.
 
 #### Defined in
 
-[packages/medusa/src/services/product-variant-inventory.ts:127](https://github.com/medusajs/medusa/blob/6dafb5154/packages/medusa/src/services/product-variant-inventory.ts#L127)
+[packages/medusa/src/services/product-variant-inventory.ts:127](https://github.com/Oyelowo/medusa/blob/dd87e6253/packages/medusa/src/services/product-variant-inventory.ts#L127)
 
 ___
 
@@ -477,7 +477,7 @@ TransactionBaseService.shouldRetryTransaction\_
 
 #### Defined in
 
-[packages/medusa/src/interfaces/transaction-base-service.ts:29](https://github.com/medusajs/medusa/blob/6dafb5154/packages/medusa/src/interfaces/transaction-base-service.ts#L29)
+[packages/medusa/src/interfaces/transaction-base-service.ts:29](https://github.com/Oyelowo/medusa/blob/dd87e6253/packages/medusa/src/interfaces/transaction-base-service.ts#L29)
 
 ___
 
@@ -502,7 +502,7 @@ nothing if successful, throws error if not
 
 #### Defined in
 
-[packages/medusa/src/services/product-variant-inventory.ts:459](https://github.com/medusajs/medusa/blob/6dafb5154/packages/medusa/src/services/product-variant-inventory.ts#L459)
+[packages/medusa/src/services/product-variant-inventory.ts:459](https://github.com/Oyelowo/medusa/blob/dd87e6253/packages/medusa/src/services/product-variant-inventory.ts#L459)
 
 ___
 
@@ -526,4 +526,4 @@ TransactionBaseService.withTransaction
 
 #### Defined in
 
-[packages/medusa/src/interfaces/transaction-base-service.ts:13](https://github.com/medusajs/medusa/blob/6dafb5154/packages/medusa/src/interfaces/transaction-base-service.ts#L13)
+[packages/medusa/src/interfaces/transaction-base-service.ts:13](https://github.com/Oyelowo/medusa/blob/dd87e6253/packages/medusa/src/interfaces/transaction-base-service.ts#L13)
